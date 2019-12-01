@@ -1,0 +1,16 @@
+{
+  "name": "progangstar",
+  "version": "1.0.0",
+  "description": "officiele PGbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ProGamerNL180",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "djs-commands": "^1.2.2",
+    "ms": "^2.1.1"
+  }
+}
